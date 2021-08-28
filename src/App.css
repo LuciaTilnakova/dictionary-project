@@ -5,6 +5,7 @@
 .App footer {
   margin-top: 10px;
 }
-.App .mySite {
+.App .mySite,
+.GitHub {
   text-decoration: none;
 }

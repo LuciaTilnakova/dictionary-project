@@ -17,6 +17,14 @@ function App() {
               className="mySite"
             >
               Lucia Tilnakova
+            </a>{" "}
+            on
+            <a
+              href="https://github.com/LuciaTilnakova/dictionary-project"
+              className="GitHub"
+            >
+              {" "}
+              GitHub
             </a>
           </small>
         </footer>
